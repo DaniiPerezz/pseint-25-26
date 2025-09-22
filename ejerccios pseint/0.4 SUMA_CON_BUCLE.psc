@@ -4,7 +4,7 @@ Algoritmo SUMA_CON_BUCLE
 	contador = 0
 	suma = 0
 	// 2º expresion lógica 
-	Mientras contador <= 5 Hacer
+	Mientras contador <= 10 Hacer
 		Escribir "dame un numero porfi jjjj"
 		Leer num
 		suma = suma + num
